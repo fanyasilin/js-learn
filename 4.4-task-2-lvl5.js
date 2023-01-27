@@ -11,6 +11,6 @@ let calculator = {
     }
 };
   
-calculator.ans();
+calculator.read();
 alert( calculator.sum() );
-alert( calculator.mult() );
+alert( calculator.mul() );
